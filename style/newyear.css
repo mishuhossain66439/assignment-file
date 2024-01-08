@@ -58,3 +58,15 @@
     left: 50%
     transform: translate(-50%, -50%); 
 }
+.Adress{
+ background-color: bisque;
+ text-align: center;
+ margin: none;
+}
+.adress-detials{
+    color:red;
+}
+.Btn-color{
+    background-color: red;
+    color:white;
+}
