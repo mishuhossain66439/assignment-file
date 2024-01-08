@@ -1,13 +1,15 @@
-body{
-    font-family: 'Lato', sans-serif;
-    font-family: 'Open Sans', sans-serif;
 
+.center-Top{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
-
-
-.header{
-    background-color: #FFF8F3;
-    background-image: url('../resources/Banner\ Image.png');
-    background-repeat: no-repeat;
-    
+.center-Bottom{
+    color: white;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
