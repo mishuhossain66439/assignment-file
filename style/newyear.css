@@ -56,17 +56,16 @@ body{
     transform: translate(-50%, -50%);
 }
 .btn-type{
-    color: white;
+    border-radius: 5px;
+    color: #FD6E0A;;
     text-align: center;
-    top:60%;
-    left: 50%
-    transform: translate(-50%, -50%); 
+    border: 0;
 }
 .Adress{
   gap: 50px;  
   background-color: burlywood;
   text-align: center;
-  background-position: left bottom;
+  background-position: bottom center;
   padding: 100px 0px;
   border-radius: 10px;
   margin: 100px 0px;
@@ -87,6 +86,7 @@ body{
 }
 
 .container{
+    text-align: center;
     display: flex;
     padding: auto;
 
@@ -97,23 +97,63 @@ body{
 }
 .Container-Name{
     text-align: center;
-    margin: 0;
+    margin-left: 0;
 }
 .Container-description{
     text-align: center;
+    margin-left: 0;
 }
+
 .img-contaie{
-    border-width: 1px;
+    border-width: 5px;
     border-color: red; 
-    width: 100px;
-    height: 100px;
     text-align: center;
+    font-weight: 700;
     vertical-align: middle;  
 }
 .FY-year{
+    margin-right: 0;
     text-align: center;
     color: red;
 }
 .FY-description{
+    margin-right: 0;
     text-align: center;
+}
+.d-title{
+    text-align: center;
+}
+.d-discout{
+    text-align: center;
+}
+.sp-title{
+    color: red;
+}
+.image-merge{
+    margin: 0;
+    max-width: fit-content;
+    overflow: auto;
+
+}
+.gft-titles{
+    color:red;
+    text-align: center;
+}
+.git-label{
+    text-align: center;
+}
+.git-descrpton{
+    text-align: center;
+}
+.Contain-gallery{
+    max-width: 1200px;
+    margin: auto;
+    background: #f2f2f2;
+    overflow: auto;
+}
+.gallery{
+    margin: 5px;
+    border: 1px solid #ccc;
+    float:left;
+    width: 390px;
 }
