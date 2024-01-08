@@ -59,14 +59,41 @@
     transform: translate(-50%, -50%); 
 }
 .Adress{
- background-color: bisque;
- text-align: center;
- margin: none;
+  gap: 50px;  
+  background-color: burlywood;
+  text-align: center;
+  margin: none;
+  border-radius: 5px;
+  position: relative;
+  padding: 100px 20px; 
 }
+
 .adress-detials{
     color:red;
 }
 .Btn-color{
     background-color: red;
     color:white;
+}
+
+.container{
+
+}
+.container-title{
+    color: red;
+    text-align: center;
+}
+.Container-Name{
+    text-align: center;
+    margin: 0;
+}
+.Container-description{
+    text-align: center;
+}
+.img-contaie{
+    padding: 0%;
+    position: relative;
+    border: radius 50%;
+    display:inline-block; 
+    margin:0 15px;
 }
