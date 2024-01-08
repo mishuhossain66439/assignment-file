@@ -1,15 +1,30 @@
+.pic-title{
+    position: relative;
+    text-align: center;
+}
 
 .center-Top{
     color: white;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 .center-Bottom{
     color: white;
     position: absolute;
-    top: 60%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
+}
+.discount{
+    color:red;
+    text-align: center;
+}
+.cat{
+    color: red;
+    text-align: center;
+}
+.All{
+    text-align: center;
 }
