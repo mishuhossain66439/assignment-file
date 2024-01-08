@@ -28,3 +28,33 @@
 .All{
     text-align: center;
 }
+.newyearphoto{
+ text-align: center;
+}
+.divv{
+   position: relative;
+   text-align: center;
+}
+.Cccenter-top{
+    color: white;
+    position: absolute;
+    text-align: left;
+    top: 30%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+}
+.CCcenter-Bottom{
+    color: white;
+    position: absolute;
+    text-align: left;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+.btn-type{
+    color: white;
+    text-align: center;
+    top:60%;
+    left: 50%
+    transform: translate(-50%, -50%); 
+}
