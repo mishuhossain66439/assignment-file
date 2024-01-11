@@ -131,8 +131,8 @@ body{
 }
 .image-merge{
     margin: 0;
-    max-width: fit-content;
-    overflow: auto;
+    width: auto;
+    display: flex;
 
 }
 .gft-titles{
